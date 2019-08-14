@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFX.WebApi", "EFX.WebApi\EFX.WebApi.csproj", "{BCEAC220-DB4D-467C-B3B8-A02910F9105B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFX.Data", "EFX.Data\EFX.Data.csproj", "{01272C53-5BCA-4F7F-9D03-858AD2F11FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFX.Domain", "EFX.Domain\EFX.Domain.csproj", "{CDBBDF61-BB3E-4432-9EFA-E58F44E28078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEAC220-DB4D-467C-B3B8-A02910F9105B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEAC220-DB4D-467C-B3B8-A02910F9105B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEAC220-DB4D-467C-B3B8-A02910F9105B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEAC220-DB4D-467C-B3B8-A02910F9105B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01272C53-5BCA-4F7F-9D03-858AD2F11FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01272C53-5BCA-4F7F-9D03-858AD2F11FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01272C53-5BCA-4F7F-9D03-858AD2F11FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01272C53-5BCA-4F7F-9D03-858AD2F11FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDBBDF61-BB3E-4432-9EFA-E58F44E28078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBBDF61-BB3E-4432-9EFA-E58F44E28078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBBDF61-BB3E-4432-9EFA-E58F44E28078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBBDF61-BB3E-4432-9EFA-E58F44E28078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2736171-8EE3-4DD1-AB6F-5B9ACBEE90CA}
+	EndGlobalSection
+EndGlobal
